@@ -1,0 +1,18 @@
+.btn{
+   
+    border-radius: 4px;
+    color:white;
+    
+}
+.btn.add{
+   float: right;background-color: aqua;
+   color: white;
+   margin-right: 12px;
+
+}
+.btn.update{
+background-color: yellowgreen;
+}
+.btn.remove{
+    background-color: tomato;
+}
